@@ -12,4 +12,4 @@ que está escrito assim "Abrir Pop-UP" abar o pop-up acinando o código anterior
 Nesse código tem apenas um grande ponto a se falar que é a váriavel<br>
 "Window.Location" que diferente de abrir um página no meio da tela em uma guia nova<br>
 ele redireciona o usuário da página para a página citada no link,<br>
-que diferente do "open" que abre uma guia o "location" muda o local da guia.
+que diferente do "open" que abre uma guia o "location" muda o local da guia já aberta.
